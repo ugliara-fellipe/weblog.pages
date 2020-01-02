@@ -1,0 +1,46 @@
+#
+# Copyright (c) 2019, Fellipe Augusto Ugliara
+#
+# Use of this source code is governed by an ISC license that can be found 
+# in the LICENSE file at https://github.com/ugliara-fellipe/weblog.pages
+#
+
+weblog
+  title       "Research Outline"
+  description "Weblog - Research Outline"
+  keywords    "Weblog,Computer,Mathematics,Profile"
+
+license
+  holder "Fellipe Augusto Ugliara"
+  link   "https://github.com/ugliara-fellipe/ugliara-fellipe.github.io/blob/master/LICENSE"
+  type   "ISC"
+  file   "LICENSE"
+  date   "2019"
+
+post
+  date  "2019-06-13"
+  show  "June 13, 2019"
+  group "Profile"
+  link  "resume/resume.html"
+  title "Resume and Contact"
+
+post
+  date  "2019-02-14"
+  show  "February 14, 2019"
+  group "Profile"
+  link  "projects/projects.html"
+  title "Open Source Projects"
+
+post
+  date  "2019-06-09"
+  show  "June 9, 2019"
+  group "Computer"
+  link  "staticgen/staticgen.html"
+  title "Static Weblog Generator"
+
+post
+  date  "2019-05-29"
+  show  "May 29, 2019"
+  group "Computer"
+  link  "compiler/compiler.html"
+  title "Compiler Prototyping"

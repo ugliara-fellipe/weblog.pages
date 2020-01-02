@@ -13,6 +13,7 @@
 #   remove    (remove a post)
 #   repo      (repository details; license)
 #   wip       (work in progress; for intermediate commits)
+#   style     (change css files and icons)
 #
 # (Optional) Group is:
 #   (post id) The name of any repository internal folder that 
@@ -27,5 +28,5 @@
 # Copyright (c) 2019, Fellipe Augusto Ugliara
 #
 # Use of this source code is governed by an ISC license that can be found 
-# in the LICENSE file at https://github.com/ugliara-fellipe/library.extend
+# in the LICENSE file at https://github.com/ugliara-fellipe/weblog.pages
 # --------------------

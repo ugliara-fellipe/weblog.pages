@@ -1,0 +1,17 @@
+/*
+Copyright Fellipe Augusto Ugliara. All Rights Reserved.
+
+Use of this source code is governed by an MIT license that can be found in the LICENSE file at
+https://github.com/ugliara-fellipe/ugliara-fellipe.github.io/blob/master/LICENSE
+*/
+
+article {
+  font-size: 23px;
+  margin: 1.6em 1em 1.6em 1em;
+  font-family: sans-serif;
+}
+
+article .info {
+  font-size: 17px;
+  font-family: serif;
+}
