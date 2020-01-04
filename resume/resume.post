@@ -21,11 +21,11 @@ Architecture of Software, Open-source Projects, and Research Projects.
 **Education
 
 `Master of Computer Science` ^
-(``2016 - 2018; Universidade Federal de São Carlos``)^
+(``2016 - 2018; Universidade Federal de Sao Carlos``)^
 This graduate covered topics of Computer Science with an emphasis on 
 Programming Languages. The research topic was metaprogramming, 
 and the courses studied were programming languages, computer theory, 
-compilers, ​​and algorithms.
+compilers, and algorithms.
 
 `Bachelor of Computer Science` ^
 (``2006 - 2010; Universidade Federal de Lavras``)^
@@ -43,23 +43,23 @@ systems, compilers, computer architecture, and embedded software.
 Defining architecture and leading teams are the main activity in this 
 function. Payment and manufacturing systems are the areas of major 
 projects. The teams usually involve from five to ten people, and the 
-programming languages ​​used are C, C++, Python, SQL, C'#, Java, and Javascript.
+programming languages used are C, C++, Python, SQL, C'#, Java, and Javascript.
 
 `Senior Analyst Developer` ^
 (``August, 2013 - August, 2014; FIT, Sorocaba``) ^
 During this period, applications for payment terminals (POS) were 
 developed. Systems were also created to automate POS manufacturing 
-steps. The main programming languages ​​used were C, C++, Python, and Lua.
+steps. The main programming languages used were C, C++, Python, and Lua.
 
 `Analyst Developer` ^
-(``July, 2012 - July, 2013; Mosaico, Santo André``)^
+(``July, 2012 - July, 2013; Mosaico, Santo Andre``)^
 In this function, embedded software was developed for medical equipment. 
 The microcontrollers of PIC family were used in these devices; 
 auxiliary software that communicated with the embedded devices were 
-implemented in QT. The programming languages ​​used were C, and C++.
+implemented in QT. The programming languages used were C, and C++.
 
 `Analyst Developer` ^
-(``July, 2011 - July, 2012; Atech, São Paulo``)^
+(``July, 2011 - July, 2012; Atech, Sao Paulo``)^
 In this work, a system of allocation aircraft landings was developed. 
 This critical system helped flight controllers decide which order the 
 aircraft should land on and how they would travel from the airport to a 
@@ -73,14 +73,14 @@ A scripting language and its interpreter were designed and
 implemented. The interpreter was embedded in a device that monitoring 
 construction vehicles. It allowed to change the behavior of the device, 
 replacing the script that was interpreted, without its firmware being 
-rewritten. The programming languages ​​involved were C, and C++.
+rewritten. The programming languages involved were C, and C++.
 
 `Trainee Developer` ^
 (``November, 2009 - July, 2010; Devex, Lavras``)^
 In this activity, a monitoring and tracking device was developed for 
 mining vehicles. This device was designed with an ARM microcontroller, 
 and a Linux distribution was compiled from scratch. The programming 
-languages ​​used were C, C++, Shell Script, and Python.
+languages used were C, C++, Shell Script, and Python.
 
 `Trainee Tester` ^
 (``July, 2009 - November, 2009; Devex, Lavras``)^
@@ -93,3 +93,4 @@ languages involved were C, Pascal, and SQL.
 
 Portuguese (``Native``)^
 English (``Professional Working``)
+

@@ -24,23 +24,23 @@ post
   link  "resume/resume.html"
   title "Resume and Contact"
 
-post
-  date  "2019-02-14"
-  show  "February 14, 2019"
-  group "Profile"
-  link  "projects/projects.html"
-  title "Open Source Projects"
+# post
+#   date  "2019-02-14"
+#   show  "February 14, 2019"
+#   group "Profile"
+#   link  "projects/projects.html"
+#   title "Open Source Projects"
 
-post
-  date  "2019-06-09"
-  show  "June 9, 2019"
-  group "Computer"
-  link  "staticgen/staticgen.html"
-  title "Static Weblog Generator"
+# post
+#   date  "2019-06-09"
+#   show  "June 9, 2019"
+#   group "Computer"
+#   link  "staticgen/staticgen.html"
+#   title "Static Weblog Generator"
 
-post
-  date  "2019-05-29"
-  show  "May 29, 2019"
-  group "Computer"
-  link  "compiler/compiler.html"
-  title "Compiler Prototyping"
+# post
+#   date  "2019-05-29"
+#   show  "May 29, 2019"
+#   group "Computer"
+#   link  "compiler/compiler.html"
+#   title "Compiler Prototyping"
