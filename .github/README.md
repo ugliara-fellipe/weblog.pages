@@ -12,4 +12,4 @@ me by email (<ugliara.fellipe@gmail.com>).
 Copyright (c) 2019, Fellipe Augusto Ugliara
 
 Use of this source code is governed by an ISC license that can be found 
-in the LICENSE file at https://github.com/ugliara-fellipe/weblog.staticgen
+in the LICENSE file at https://github.com/ugliara-fellipe/weblog.pages
