@@ -26,6 +26,7 @@ article h1 {
   font-family: sans-serif;
   font-weight: normal;
   font-size: 28px;
+  font-variant: small-caps;
 }
 
 article h2 {
@@ -35,6 +36,7 @@ article h2 {
   font-family: sans-serif;
   font-weight: normal;
   font-size: 25px;
+  font-variant: small-caps;
 }
 
 article h2:before, article h2:after {
@@ -65,6 +67,7 @@ article h3 {
   font-family: sans-serif;
   font-weight: normal;
   font-size: 21px;
+  font-variant: small-caps;
 }
 
 article p {

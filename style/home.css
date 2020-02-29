@@ -15,3 +15,7 @@ article .info {
   font-size: 17px;
   font-family: serif;
 }
+
+article a {
+  font-variant: small-caps;
+}
