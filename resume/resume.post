@@ -52,14 +52,14 @@ developed. Systems were also created to automate POS manufacturing
 steps. The main programming languages used were C, C++, Python, and Lua.
 
 `Analyst Developer` ^
-(``July, 2012 - July, 2013; Mosaico, Santo Andre``)^
+(``July, 2012 - July, 2013; Grupo Mosaico, Santo Andre``)^
 In this function, embedded software was developed for medical equipment. 
 The microcontrollers of PIC family were used in these devices; 
 auxiliary software that communicated with the embedded devices were 
 implemented in QT. The programming languages used were C, and C++.
 
 `Analyst Developer` ^
-(``July, 2011 - July, 2012; Atech, Sao Paulo``)^
+(``July, 2011 - July, 2012; Fundacao Ezute, Sao Paulo``)^
 In this work, a system of allocation aircraft landings was developed. 
 This critical system helped flight controllers decide which order the 
 aircraft should land on and how they would travel from the airport to a 
@@ -76,14 +76,14 @@ replacing the script that was interpreted, without its firmware being
 rewritten. The programming languages involved were C, and C++.
 
 `Trainee Developer` ^
-(``November, 2009 - July, 2010; Devex, Lavras``)^
+(``November, 2009 - July, 2010; Hexagon Mining, Lavras``)^
 In this activity, a monitoring and tracking device was developed for 
 mining vehicles. This device was designed with an ARM microcontroller, 
 and a Linux distribution was compiled from scratch. The programming 
 languages used were C, C++, Shell Script, and Python.
 
 `Trainee Tester` ^
-(``July, 2009 - November, 2009; Devex, Lavras``)^
+(``July, 2009 - November, 2009; Hexagon Mining, Lavras``)^
 Source code validations and tests of embedded systems were performed 
 in this job. The tests were applied on devices that monitor and 
 track mining vehicles and equipment. The programming 
