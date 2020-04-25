@@ -6,8 +6,8 @@
 #
 
 weblog
-  title       "Research Outline"
-  description "Weblog - Research Outline"
+  title       "Writing Notebook"
+  description "Weblog - Writing Notebook"
   keywords    "Weblog,Computer,Mathematics,Profile"
 
 license
@@ -30,5 +30,3 @@ post
   group "Profile"
   path  "https://github.com/ugliara-fellipe"
   title "Open Source Projects"
-
-
