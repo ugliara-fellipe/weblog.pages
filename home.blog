@@ -1,5 +1,5 @@
 #
-# Copyright (c) 2019, Fellipe Augusto Ugliara
+# Copyright (c) 2020, Fellipe Augusto Ugliara
 #
 # Use of this source code is governed by an ISC license that can be found 
 # in the LICENSE file at https://github.com/ugliara-fellipe/weblog.pages
@@ -15,7 +15,7 @@ license
   link   "https://github.com/ugliara-fellipe/ugliara-fellipe.github.io"
   type   "ISC"
   file   "LICENSE"
-  date   "2019"
+  date   "2020"
 
 post
   date  "2019-06-13"
