@@ -8,7 +8,7 @@
 weblog
   title       "Writing Notebook"
   description "Weblog - Writing Notebook"
-  keywords    "Weblog,Computer,Mathematics,Profile"
+  keywords    "Weblog,Computer,Mathematics,Philosophy,Profile"
 
 license
   holder "Fellipe Augusto Ugliara"
@@ -18,8 +18,8 @@ license
   date   "2020"
 
 post
-  date  "2019-06-13"
-  show  "June 13, 2019"
+  date  "2021-01-28"
+  show  "January 28, 2021"
   group "Profile"
   link  "resume/resume.html"
   title "Resume and Contact"
